@@ -1,12 +1,86 @@
-# React + Vite
+# 📚 StudyUp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Um protótipo multiplataforma (web + mobile) para organização de estudos, desenvolvido como parte do projeto interdisciplinar de **Análise e Desenvolvimento de Sistemas**.
 
-Currently, two official plugins are available:
+![StudyUp Banner](./docs/banner.png) <!-- opcional, você pode colocar uma imagem futuramente -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Sobre o Projeto
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+O **StudyUp** é um aplicativo que ajuda estudantes a organizar suas atividades diárias, metas e prazos de forma simples e intuitiva.
+
+Com ele, você pode:
+- ✅ Cadastrar tarefas com título, data e horário  
+- 📅 Visualizar todas as atividades na **Agenda**  
+- 🎯 Definir metas de estudo e acompanhar o progresso  
+- 🗑️ Gerenciar a **Lixeira** (restaurar ou apagar tarefas)  
+- 🌍 Alternar entre idiomas **Português** e **Inglês**  
+- 🎨 Trocar entre tema **claro** e **escuro**  
+
+---
+
+## 🖥️ Tecnologias Utilizadas
+
+- [React](https://react.dev/)  
+- [React Router](https://reactrouter.com/)  
+- [TailwindCSS](https://tailwindcss.com/)  
+- [Context API](https://react.dev/reference/react/useContext)  
+- [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)  
+
+---
+
+## 📂 Estrutura de Páginas
+
+- **Login** – tela inicial de acesso  
+- **Home** – visão das tarefas do dia  
+- **Agenda** – lista completa de atividades  
+- **Cadastro** – adicionar nova atividade  
+- **Metas** – definição e acompanhamento de metas  
+- **Lixeira** – restaurar ou apagar tarefas excluídas  
+- **Ajuda** – explicação rápida e links do criador  
+- **Configurações** – idioma e tema  
+
+---
+
+## ⚡ Como Rodar Localmente
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/SEU_USUARIO/studyup.git
+   cd studyup
+
+2. Instale as dependências:
+
+npm install
+
+
+3. Rode o projeto em modo dev:
+
+npm start
+
+4. Acesse em:
+👉 http://localhost:3000
+
+📦 Build de Produção
+
+Para gerar a versão otimizada:
+
+npm run build
+
+
+Isso cria a pasta /build, pronta para deploy (Netlify, Vercel, GitHub Pages, etc).
+
+🔗 Links Relacionados
+
+📘 README do Electron
+ – versão desktop com auto-update
+
+🐙 GitHub: [github.com/SEU_USUARIO](https://github.com/MoiRaibolt)
+
+📩 Contato: moisesraibolt@gmail.com
+
+👨‍💻 Autor
+
+Moisés Raibolt
+Estudante de Análise e Desenvolvimento de Sistemas
