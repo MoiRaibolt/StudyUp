@@ -47,7 +47,7 @@ Com ele, você pode:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/SEU_USUARIO/studyup.git
+   git clone https://github.com/MoiRaibolt/studyup.git
    cd studyup
 
 2. Instale as dependências:
