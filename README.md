@@ -2,7 +2,7 @@
 
 > Um protótipo multiplataforma (web + mobile) para organização de estudos, desenvolvido como parte do projeto interdisciplinar de **Análise e Desenvolvimento de Sistemas**.
 
-![StudyUp Banner](assets/images/studyup.png) <!-- opcional, você pode colocar uma imagem futuramente -->
+![StudyUp Banner](assets/images/studyup.png)
 
 ---
 
