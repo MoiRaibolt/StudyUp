@@ -1,4 +1,4 @@
-<img width="1358" height="654" alt="image" src="https://github.com/user-attachments/assets/e9248492-69a6-44ff-bc86-60d3debe30ad" /># 📚 StudyUp
+# 📚 StudyUp
 
 > Um protótipo multiplataforma (web + mobile) para organização de estudos, desenvolvido como parte do projeto interdisciplinar de **Análise e Desenvolvimento de Sistemas**.
 
