@@ -1,8 +1,8 @@
-# 📚 StudyUp
+<img width="1358" height="654" alt="image" src="https://github.com/user-attachments/assets/e9248492-69a6-44ff-bc86-60d3debe30ad" /># 📚 StudyUp
 
 > Um protótipo multiplataforma (web + mobile) para organização de estudos, desenvolvido como parte do projeto interdisciplinar de **Análise e Desenvolvimento de Sistemas**.
 
-![StudyUp Banner](./docs/banner.png) <!-- opcional, você pode colocar uma imagem futuramente -->
+![StudyUp Banner](assets/images/studyup.png) <!-- opcional, você pode colocar uma imagem futuramente -->
 
 ---
 
@@ -57,7 +57,7 @@ npm install
 
 3. Rode o projeto em modo dev:
 
-npm start
+npm run dev
 
 4. Acesse em:
 👉 http://localhost:3000
