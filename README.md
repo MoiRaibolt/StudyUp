@@ -76,9 +76,11 @@ Isso cria a pasta /build, pronta para deploy (Netlify, Vercel, GitHub Pages, etc
 📘 README do Electron
  – versão desktop com auto-update
 
-🐙 GitHub: [github.com/SEU_USUARIO](https://github.com/MoiRaibolt)
+🐙 GitHub: [github.com/https://github.com/MoiRaibolt
 
 📩 Contato: moisesraibolt@gmail.com
+
+LinkedIn: www.linkedin.com/in/moisesraibolt-dev
 
 👨‍💻 Autor
 
